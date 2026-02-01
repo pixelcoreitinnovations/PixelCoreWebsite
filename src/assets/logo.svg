@@ -1,0 +1,15 @@
+<svg width="220" height="48" viewBox="0 0 220 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icon -->
+  <rect x="2" y="2" width="44" height="44" rx="8" fill="#2563EB"/>
+  <rect x="10" y="10" width="12" height="12" fill="white"/>
+  <rect x="24" y="10" width="12" height="12" fill="white"/>
+  <rect x="10" y="24" width="26" height="12" fill="white"/>
+
+  <!-- Text -->
+  <text x="60" y="32" font-family="Inter, sans-serif" font-size="26" font-weight="700" fill="#0F172A">
+    Pixel
+  </text>
+  <text x="122" y="32" font-family="Inter, sans-serif" font-size="26" font-weight="700" fill="#2563EB">
+    Core
+  </text>
+</svg>
